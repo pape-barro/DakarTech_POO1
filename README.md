@@ -4,8 +4,8 @@
  * ###  Programmation orientée objet 1: C++
  
  ``` - Organisation du travail: ```
- * ### Cours magistral : 32h ;
- * TD/TP : 32h ;
+ * ### Cours magistral : 16h ;
+ * TD/TP : 16h ;
  
 ``` - Evaluation: ```
  * Projet ;
@@ -23,4 +23,5 @@
  1. [`Notion de Classe, Fonctions membres, Constructeurs, destructeurs et initialisation d’objet`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p5.pdf);
  2. [`Héritage simple`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p6.pdf);
  3. [`Héritage multiple`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p7.pdf);
- 4. ...
+ 4. [`Fonctions virtuelles et polymorphisme`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p8.pdf);
+ 5. ...
