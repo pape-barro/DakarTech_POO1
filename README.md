@@ -24,4 +24,5 @@
  2. [`Héritage simple`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p6.pdf);
  3. [`Héritage multiple`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p7.pdf);
  4. [`Fonctions virtuelles et polymorphisme`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p8.pdf);
- 5. ...
+ 5. [`La gestion des exceptions`](https://github.com/pape-barro/DakarTech_POO1/blob/main/cours-dt-p9.pdf);
+ 6. ...
